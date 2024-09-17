@@ -18,17 +18,6 @@ My extensive experience in finance, data analysis, and project management has fu
 - **Budget Consolidation**: Aggregated and consolidated departmental budgets to ensure overall coherence and alignment with strategic objectives.
 - **Reporting to Senior Management and the Group**: Prepared and presented periodic financial reports to senior management and the group to evaluate performance and support decision-making.
 
-### Financial Management and Reporting
-
-- **Reporting Automation**: Implemented reporting automation at BMCI Asset Management and BMCI Bourse, combining management and accounting data for accurate financial statements.
-- **Accounting Procedures Verification and Audit**: Coordinated financial information and interfaced with auditors to ensure consistency and accuracy in reports.
-- **Budget Monitoring**: Managed budgets, analyzed variances, and monitored portfolios to inform management of trends and results.
-
-### Participation in Centralization Project - BNP Paribas Group “MED”
-
-- **Process Centralization**: Implemented a centralized accounting, regulation, management, and budget validation process within a single ERP, SAP Onecap.
-- **Workflow Testing**: Ensured the proper functioning of Purchase-to-Pay (P2P) processes through rigorous testing.
-- **Management of Unpaid and Doubtful Debts**: Developed strategies to minimize losses and optimize currency transactions.
 
 ## Financial Projects
 
@@ -58,6 +47,20 @@ My extensive experience in finance, data analysis, and project management has fu
 - **Process Reengineering**: Assessed the existing system and updated databases to ensure their integrity.
 - **BI Modeling**: Developed models to monitor and control data migration.
 - **Testing and Validation**: Conducted accounting migration simulations and facilitated workshops to align stakeholder expectations.
+
+
+### Financial and Reporting projetcs
+
+- **Reporting Automation**: Implemented reporting automation at BMCI Asset Management and BMCI Bourse, combining management and accounting data for accurate financial statements.
+- **Accounting Procedures Verification and Audit**: Coordinated financial information and interfaced with auditors to ensure consistency and accuracy in reports.
+- **Budget Monitoring**: Managed budgets, analyzed variances, and monitored portfolios to inform management of trends and results.
+
+### Participation in Centralization Project - BNP Paribas Group “MED”
+
+- **Process Centralization**: Implemented a centralized accounting, regulation, management, and budget validation process within a single ERP, SAP Onecap.
+- **Workflow Testing**: Ensured the proper functioning of Purchase-to-Pay (P2P) processes through rigorous testing.
+- **Management of Unpaid and Doubtful Debts**: Developed strategies to minimize losses and optimize currency transactions.
+
 
 ## Skills
 
