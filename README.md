@@ -97,9 +97,12 @@ My extensive experience in finance, data analysis, and project management has fu
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Data_Science-FF4500?&style=for-the-badge&logo=Coursera&logoColor=white" />
-<img src="https://img.shields.io/badge/-Credit_Risk_Modeling-007ACC?&style=for-the-badge&logo=Udemy&logoColor=white" />
-<img src="https://img.shields.io/badge/-Financial_Reporting_with_Power_BI-00A1F1?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
+<a href="https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/"><img src="https://img.shields.io/badge/-Data_Science-FF4500?&style=for-the-badge&logo=Udemy&logoColor=white" /></a>
+<a href="https://www.alxafrica.com/programme/data-science/"><img src="https://img.shields.io/badge/-Data_Science-3776AB?&style=for-the-badge&logo=Udemy&logoColor=white" /></a>
+<a href="https://enterprisedna.co/courses/financial-reporting-with-power-bi"><img src="https://img.shields.io/badge/-Power_BI-F2C811?&style=for-the-badge&logo=Power-BI&logoColor=white" /></a>
+<a href="https://www.udemy.com/course/credit-risk-modeling-in-python/"><img src="https://img.shields.io/badge/-Credit_Risk_Modeling-007ACC?&style=for-the-badge&logo=Udemy&logoColor=white" /></a>
+<a href="https://www.udemy.com/course-dashboard-redirect/?course_id=3158874"><img src="https://img.shields.io/badge/-IFRS-0FAAFF?&style=for-the-badge&logo=Udemy&logoColor=white" /></a>
+<a href="https://www.udemy.com/home/my-courses/learning/?p=4"><img src="https://img.shields.io/badge/-Financial_Planning_%26_Analysis-8D2672?&style=for-the-badge&logo=Udemy&logoColor=white" /></a>
 </div>
 
 ## Projects
