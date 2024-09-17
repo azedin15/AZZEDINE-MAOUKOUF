@@ -9,55 +9,55 @@ My extensive experience in finance, data analysis, and project management has fu
 
 ## Professional Experience in Finance
 
-### Domaine d’intervention - Finance et Contrôle de Gestion
+### Area of Expertise - Finance and Management Control
 
-- **Gestion des budgets**: Participation active à l'établissement des budgets annuels en collaboration avec les différentes unités opérationnelles.
-- **Prévisions financières**: Élaboration des prévisions financières pour guider les décisions stratégiques.
-- **Suivi des dépenses**: Surveillance continue des dépenses par rapport aux budgets alloués, avec identification proactive des écarts et mise en place de mesures correctives.
-- **Sensibilisation des Ordonnateurs**: Communication et sensibilisation des gestionnaires et responsables opérationnels pour garantir le respect des budgets attribués.
-- **Consolidation budgétaire**: Agrégation et consolidation des budgets départementaux pour assurer la cohérence globale et la conformité avec les objectifs stratégiques.
-- **Reporting à la direction générale et au groupe**: Préparation et présentation de rapports financiers périodiques à la direction générale et au groupe pour évaluer la performance et soutenir la prise de décisions.
+- **Budget Management**: Actively participated in the development of annual budgets in collaboration with various operational units.
+- **Financial Forecasting**: Developed financial forecasts to guide strategic decisions.
+- **Expense Monitoring**: Continuously monitored expenses against allocated budgets, proactively identifying variances and implementing corrective measures.
+- **Stakeholder Awareness**: Communicated with and raised awareness among managers and operational leaders to ensure adherence to assigned budgets.
+- **Budget Consolidation**: Aggregated and consolidated departmental budgets to ensure overall coherence and alignment with strategic objectives.
+- **Reporting to Senior Management and the Group**: Prepared and presented periodic financial reports to senior management and the group to evaluate performance and support decision-making.
 
-### Gestion Financière et Reporting
+### Financial Management and Reporting
 
-- **Automatisation du reporting**: Mise en place d'une automatisation du processus de reporting chez BMCI Asset Management et BMCI Bourse, combinant les données de gestion et comptables pour des états financiers précis.
-- **Vérification et audit des procédures comptables**: Coordination des informations financières et interface avec les Commissaires aux Comptes (CAC) pour garantir la cohérence et précision des rapports.
-- **Suivi budgétaire**: Gestion des budgets, analyse des écarts et surveillance des portefeuilles pour informer la direction des tendances et résultats.
+- **Reporting Automation**: Implemented reporting automation at BMCI Asset Management and BMCI Bourse, combining management and accounting data for accurate financial statements.
+- **Accounting Procedures Verification and Audit**: Coordinated financial information and interfaced with auditors to ensure consistency and accuracy in reports.
+- **Budget Monitoring**: Managed budgets, analyzed variances, and monitored portfolios to inform management of trends and results.
 
-### Participation au Projet de Centralisation - GROUPE BNP PARIBAS “MED”
+### Participation in Centralization Project - BNP Paribas Group “MED”
 
-- **Centralisation des processus**: Implémentation dans un ERP unique, SAP Onecap, pour la comptabilisation, règlement, gestion et validation budgétaire.
-- **Test des workflows**: Assurer le bon fonctionnement des processus Purchase-to-Pay (P2P) à travers des tests rigoureux.
-- **Gestion des impayés et créances douteuses**: Mise en place de stratégies pour minimiser les pertes et optimiser les opérations d'achat et vente de devises.
+- **Process Centralization**: Implemented a centralized accounting, regulation, management, and budget validation process within a single ERP, SAP Onecap.
+- **Workflow Testing**: Ensured the proper functioning of Purchase-to-Pay (P2P) processes through rigorous testing.
+- **Management of Unpaid and Doubtful Debts**: Developed strategies to minimize losses and optimize currency transactions.
 
 ## Financial Projects
 
-### Implémentation d’un Nouvel Outil de Calcul des Allocations des Frais Indirects
+### Implementation of a New Tool for Allocating Indirect Costs
 
-- **Direction**: Finance, Retail, Corporate, Banque Privée et ALMT
-- **Conception du modèle**: Architecture, définition du modèle de données, et fiabilisation des clés analytiques.
-- **Modélisation des cubes**: Génération de rentabilité segmentée.
-- **Validation et tests**: Mise en place de l’outil, tests unitaires, d'intégration, de performance, et validation avec les parties prenantes.
+- **Department**: Finance, Retail, Corporate, Private Banking, and ALMT
+- **Model Design**: Designed the architecture, defined the data model, and ensured the reliability of analytical keys.
+- **Cube Modeling**: Generated segmented profitability at various levels.
+- **Validation and Testing**: Implemented the tool, conducted unit, integration, performance, and load testing, and validated results with stakeholders.
 
-### Optimisation des Coûts Compressibles
+### Optimization of Compressible Costs
 
-- **Direction**: Finance, Stratégie & Unités de Management
-- **Lancement du projet**: Par la direction générale pour améliorer l'efficacité opérationnelle.
-- **Collaboration et Benchmarking**: Coordination avec la direction Stratégie et analyse comparative avec d'autres banques.
-- **Suivi et ajout de valeur**: Mise en place d'une procédure de suivi rigoureuse pour garantir que chaque initiative apporte une valeur mesurable.
+- **Department**: Finance, Strategy & Management Units
+- **Project Launch**: Initiated by senior management to improve operational efficiency.
+- **Collaboration and Benchmarking**: Coordinated with the Strategy department and conducted benchmarking with other banks.
+- **Monitoring and Adding Value**: Implemented a rigorous monitoring process to ensure that each initiative provided tangible and measurable value.
 
-### Implémentation de l'Outil de Calcul IFRS 16
+### Implementation of IFRS 16 Calculation Tool
 
-- **Direction**: Finance, IMEX et Direction du Système d’Information
-- **Norme IFRS 16**: Implémentation d'un outil de calcul, recensement des contrats, et mise en place d'un mécanisme de mise à jour.
-- **Documentation et conformité**: Évaluation de la durée des contrats pour garantir la conformité aux exigences IFRS 16.
+- **Department**: Finance, IMEX, and Information Systems
+- **IFRS 16 Compliance**: Participated in the implementation of a calculation tool, conducted a comprehensive inventory of relevant lease contracts, and set up an update mechanism.
+- **Documentation and Compliance**: Evaluated contract durations to ensure compliance with IFRS 16 requirements.
 
-### Refonte et Migration d’un Outil Core Banking
+### Overhaul and Migration of Core Banking Tool
 
-- **Direction**: Finance et Contrôle de Gestion & Retail & Corporate
-- **Réingénierie des processus**: Bilan de l’existant et mise à jour des bases de données pour assurer leur intégrité.
-- **Modélisation BI**: Développement de modèles pour surveiller et contrôler la migration des données.
-- **Test et validation**: Simulation de la bascule comptable et animation de workshops pour aligner les attentes des parties prenantes.
+- **Department**: Finance and Management Control & Retail & Corporate
+- **Process Reengineering**: Assessed the existing system and updated databases to ensure their integrity.
+- **BI Modeling**: Developed models to monitor and control data migration.
+- **Testing and Validation**: Conducted accounting migration simulations and facilitated workshops to align stakeholder expectations.
 
 ## Skills
 
