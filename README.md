@@ -9,7 +9,7 @@ My extensive experience in finance, data analysis, and project management has fu
 
 ## Professional Experience in Finance
 
-### Area of Expertise - Finance and Management Control
+### Area of Expertise - Finance and Budget Management
 
 - **Budget Management**: Actively participated in the development of annual budgets in collaboration with various operational units.
 - **Financial Forecasting**: Developed financial forecasts to guide strategic decisions.
@@ -49,11 +49,7 @@ My extensive experience in finance, data analysis, and project management has fu
 - **Testing and Validation**: Conducted accounting migration simulations and facilitated workshops to align stakeholder expectations.
 
 
-### Financial and Reporting projetcs
 
-- **Reporting Automation**: Implemented reporting automation at BMCI Asset Management and BMCI Bourse, combining management and accounting data for accurate financial statements.
-- **Accounting Procedures Verification and Audit**: Coordinated financial information and interfaced with auditors to ensure consistency and accuracy in reports.
-- **Budget Monitoring**: Managed budgets, analyzed variances, and monitored portfolios to inform management of trends and results.
 
 ### Participation in Centralization Project - BNP Paribas Group “MED”
 
