@@ -64,14 +64,14 @@ My extensive experience in finance, data analysis, and project management has fu
 
 ## Skills
 
-| Skill                                         | Associated Project                          |
-|-----------------------------------------------|---------------------------------------------|
-| Financial Modeling and Analysis               | <a href="https://github.com/azzedine-maoukouf/financial-modeling">Financial Modeling Project</a>|
-| Cost Management and Optimization              | <a href="https://github.com/azzedine-maoukouf/cost-optimization">Cost Optimization Project</a>|
-| Financial Reporting Automation                | <a href="https://github.com/azzedine-maoukouf/financial-reporting">Financial Reporting Automation</a>|
-| Data Analysis and Visualization               | <a href="https://github.com/azzedine-maoukouf/data-analysis">Data Analysis Project</a>|
-| Project Management                            | <a href="https://github.com/azzedine-maoukouf/project-management">Project Management Tools</a>|
-| IFRS 16 Implementation                        | <a href="https://github.com/azzedine-maoukouf/ifrs16-implementation">IFRS 16 Implementation</a>|
+| Skill                                         |
+|-----------------------------------------------|
+| Financial Modeling and Analysis               |
+| Cost Management and Optimization              |
+| Financial Reporting Automation                |
+| Data Analysis and Visualization               |
+| Project Management                            |
+| IFRS 16 Implementation                        |
 
 ## Tools
 
