@@ -104,5 +104,4 @@ My extensive experience in finance, data analysis, and project management has fu
 ## Projects
 
 - [Financial Modeling Project](https://github.com/azzedine-maoukouf/financial-modeling)
-- [Cost Optimization Project](https://github.com/azzedine-maoukouf/cost-optimization)
-- [IFRS 16 Implementation](https://github.com/azzedine-maoukouf/ifrs16-implementation)
+
