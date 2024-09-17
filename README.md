@@ -1,4 +1,4 @@
-# Hello, I'm Azzedine Maoukouf
+# I'm Azzedine Maoukouf
 <a href="https://linkedin.com/in/azzedine-maoukouf"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Senior Financial Controller with over 9 years of experience, specializing in digital transformation, cost management, financial process optimization, and the implementation of advanced financial tools and models.
